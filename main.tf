@@ -17,8 +17,8 @@ module "template_files" {
 # Configure AWS provider with region and credentials
 provider "aws" {
     region = var.aws_region
-    access_key = "AKIAQEARDRG4X7OFXVQC"
-    secret_key = "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"
+    access_key = "test"
+    secret_key = "test"
   
 }
 
